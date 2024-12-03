@@ -17,9 +17,9 @@ global.confirmCode = ''
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-   ['5493876639332', 'Ian', true],
-   ['573012482597'],
-   ['5218713339906', 'Diego', true]
+   ['5493405480284', 'Lobo', true],
+   [''],
+   [''],
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -35,19 +35,19 @@ global.libreria = 'Baileys'
 global.baileys = 'V 6.7.8'
 global.vs = '1.0.1'
 global.languaje = 'Español'
-global.nameqr = 'Akari Bot - MD'
-global.namebot = 'Aƙαɾι Bσƚ - MD'
+global.nameqr = 'NAKANO-BOT'
+global.namebot = 'NAKANO-BOT'
 global.sessions = 'AkariSession'
 global.jadi = 'AkariJadiBot'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = 'Aƙαɾι Bσƚ - MD'
-global.botname = 'Aƙαɾι'
-global.wm = 'AƙαɾιBσƚ-MD 🌸'
-global.author = 'By ianalejandrook15x'
-global.dev = 'Pσɯҽɾҽԃ Bყ Tҽαɱ Sԋιɳιɳɠ'
-global.textbot = 'Aƙαɾι : ιαɳαʅҽʝαɳԃɾσσƙ15x 🌸'
+global.packname = 'NAKANO-BOT'
+global.botname = 'NAKANO⁩'
+global.wm = 'Powered By team nakano'
+global.author = 'By Team Nakano'
+global.dev = 'Powered By team nakano'
+global.textbot = 'Nakano: Team OFC'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -66,10 +66,10 @@ global.grupo = 'https://chat.whatsapp.com/KiJY7gZS17aLcP6qaGatFX'
 global.grupo2 = 'https://chat.whatsapp.com/JJGQs5aCsTsAsHbw752fBv'
 global.grupo3 = 'https://chat.whatsapp.com/G2bAsa8E11mLLitGxI0iUQ'
 global.channel = 'https://whatsapp.com/channel/0029VajkZ6bIXnlwPZmbuH1u'
-global.md = 'https://github.com/ianalejandrook15x/AkariBot-MD' 
-global.yt = 'https://www.youtube.com/@ianalejandrook14x'
-global.tiktok = 'https://tiktok.com/@ian.ian271'
-global.correo = 'alejandroxddd92@gmail.com'
+global.md = '' 
+global.yt = ''
+global.tiktok = ''
+global.correo = ''
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
